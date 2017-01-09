@@ -1,0 +1,43 @@
+ID,TotalBenrfitM,PerkWh,MW,InRPS,SocialTrue,TimeHorizon,Export,TDIncluded,State,Firm,Year
+AZ 2013 (Crossborder),34,.08,431,TRUE,TRUE,20 ,ExportSelf,TRUE,AZ,Crossboarder,2013
+AZ 2016 (Crossborder),,0.12,,TRUE,TRUE,20,ExportSelf,TRUE,AZ,Crossboarder,2016
+CA 2010  (E3),-20,-0.12,386.00,FALSE,FALSE,20,Export,TRUE,CA,E3,2010
+CA 2010  (Crossboarder),92.2,,5262,FALSE,TRUE,20,Export,TRUE,CA,Crossboarder,2010
+CA  2013 (E3) - 1,-370                   ,-0.12,1300,FALSE,FALSE,20,ExportSelf,TRUE,CA,E3,2013
+CA  2013 (E3) - 2 ,-1180,-0.15,1300,FALSE,FALSE,20,ExportSelf,TRUE,CA,E3,2013
+NV 2014 (E3),64,0.01,"284
+",TRUE,FALSE,25,ExportSelf,FALSE,NV,E3,2014
+NV 2016 (E3) - 1,-36,-0.08,265,TRUE,FALSE,25,ExportSelf,TRUE,NV,E3,2016
+NV 2016 (E3) - 2 ,-15 ,-0.04,"
+530
+",TRUE,FALSE,25,ExportSelf,TRUE,NV,E3,2016
+"LA 2015 (Acadian)-1
+Existing
+","
+-89
+",,42.00,FALSE,FALSE,35,ExportSelf,TRUE,LA,Acadian,2015
+"LA 2015 (Acadian) -2
+@ cap
+",125.54,,78.00,FALSE,FALSE,35,ExportSelf,TRUE,LA,Acadian,2016
+"LA 2015  (Acadian)-3
+No cap
+
+","
+-488.26
+",,494.00,FALSE,FALSE,35,ExportSelf,TRUE,LA,Acadian,2017
+"MS 2014 (Synapse)
+
+",27,,,FALSE,FALSE,25,ExportSelf,TRUE,MS,Synapse,2014
+"NC 2013 (Crossborder) -1     DEC
+
+
+",,0.03,,FALSE,FALSE,15,ExportSelf,TRUE,NC,Crossboarder,2013
+"NC 2013 (Crossborder) - 2 DEP
+
+",,0.02,,FALSE,FALSE,15,ExportSelf,TRUE,NC,Crossboarder,2014
+"NC 2013 (Crossborder) - 3 DNCP
+
+",,0.03,,FALSE,FALSE,15,ExportSelf,TRUE,NC,Crossboarder,2015
+VT 2013  (PSD),,0.01,,,FALSE,20,ExportSelf,TRUE,VT,Public Service Dept,2013
+"MA 2013 (La Capr, Meiste, & Cadmus)",-716.5,,1600,TRUE,TRUE,25,ExportSelf,FALSE,MA,"La Capr, Meiste, & Cadmus",2013
+NY 2012 (NYSERDA),-3480.0,,5000,TRUE,TRUE,25,ExportSelf,TRUE,NY,NYSERDA,2012
