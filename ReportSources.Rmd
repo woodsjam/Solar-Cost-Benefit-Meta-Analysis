@@ -1,0 +1,22 @@
+---
+title: "Potential Sources"
+author: "James Woods"
+date: "1/9/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Found these sources:
+
++ http://www.seia.org/policy/distributed-solar/solar-cost-benefit-studies
+
+
+Other "meta" analysis:
+
++ http://environmentamerica.org/sites/environment/files/reports/EA_shiningrewards_print.pdf Cites 11 C?B studies but does not do stats.
++ http://www.rmi.org/elab_empower Older studies but plenty of references.
+
