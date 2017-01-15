@@ -24,3 +24,9 @@ Looked in:
 
 + FERC https://www.ferc.gov/legal/staff-reports.asp?new=sc2  No real database of studies.
 + NERC used search term "solar cost benefit". 290 results but did not see anything.
++ DOE 
+    + https://energy.gov/eere/sunshot/solar-energy-resource-center-0?Topic=Financing%2C%20Incentives_and_Market%20Analysis (Still paging through)
+    + Could be sources here http://en.openei.org/apps/TCDB/
+
++ NREL 
+    + http://nrel-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=Pubs&frbg=&vl%28freeText0%29=cost+benefit&scp.scps=scope%3A%28PUBS%29%2Cscope%3A%28NREL_INTERNAL%29&vl%28870446075UI1%29=all_items search of cost benefit.  Odd that many of the links are dead. 404 everything I look at is missing.
